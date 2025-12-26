@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @ankej523
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning b.tech (CSE)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ankej523/ankej523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm Ankej Kumar  
+- 👀 I’m interested in Software Engineering & Web Development  
+- 🌱 I’m currently pursuing B.Tech in Computer Science & Engineering  
+- 🏫 I’m a student at IIMT Group of Engineering College  
+- 💞️ I’m looking to collaborate on beginner-friendly and open-source projects  
+- 📫 How to reach me: GitHub | LinkedIn (add links)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love learning new technologies and building projects
