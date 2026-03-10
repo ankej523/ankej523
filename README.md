@@ -3,6 +3,6 @@
 - 🌱 I’m currently pursuing B.Tech in Computer Science & Engineering  
 - 🏫 I’m a student at IIMT Group of Engineering College  
 - 💞️ I’m looking to collaborate on beginner-friendly and open-source projects  
-- 📫 How to reach me: GitHub | LinkedIn (add links)  
+- 📫 How to reach me: https://www.linkedin.com/in/ankej-kumar-294a32321/
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love learning new technologies and building projects
