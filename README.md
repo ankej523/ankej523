@@ -91,3 +91,4 @@ A project for managing student records efficiently.
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile! 🚀</h3>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4687d3aa-63ba-45d2-8eb7-68f6d00ebf57" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
